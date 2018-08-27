@@ -5927,9 +5927,9 @@ blockquote {
   .open .dropdown-toggle.btn-primary {
     border-color: #4FC1E9;
     background-color: #4FC1E9; }
-  .btn-info, .btn-info:active, .btn-info.active, .btn-info.disabled, .btn-info[disabled] {
-    border-color: #37BC9B;
-    background-color: #37BC9B; }
+  .btn-info, .btn-info:active, .btn-info.active, .btn-info.disabled, .btn-info[disabled] { /* change */
+    border-color: #ec567c;
+    background-color: #ec567c; }
   .btn-info:hover, .btn-info:focus {
     border-color: #48CFAD;
     background-color: #48CFAD; }
